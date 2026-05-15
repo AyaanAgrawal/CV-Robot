@@ -1,0 +1,5 @@
+Flask==3.1.1
+gunicorn==23.0.0
+numpy==2.4.4
+opencv-python-headless==4.13.0.92
+ultralytics==8.4.50
